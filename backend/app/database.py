@@ -14,7 +14,7 @@ def write_db(data):
         json.dump(data, f, indent=4)
 
 # ✅ Correct MongoDB Atlas connection string (with credentials)
-MONGO_URL = "mongodb+srv://fitflowuser:Fitflow123%40@fitflowhub.lbw233e.mongodb.net/fitflow?retryWrites=true&w=majority&appName=fitflowhub"
+MONGO_URL = ""
 
 # Initialize the client
 client = AsyncIOMotorClient(MONGO_URL)
