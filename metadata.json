@@ -1,0 +1,7 @@
+{
+  "name": "FitFlow Hub Project",
+  "description": "An AI-powered fitness application that uses your webcam and advanced computer vision to track your exercises, count repetitions, and provide real-time feedback to improve your form.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

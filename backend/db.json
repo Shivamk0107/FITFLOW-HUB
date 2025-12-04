@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "email": "shivam@example.com",
+            "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+            "full_name": "Shivam Keluskar",
+            "id": "beb2be71-420a-4723-b3f5-04be14008e21"
+        }
+    ],
+    "workouts": []
+}
